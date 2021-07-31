@@ -1,6 +1,7 @@
 # Order-Management-System
 
-This project has been developed during HighRadius Training
+This project has been developed during HighRadius Training.
+
 A record system, storing details of each sale order with approval and Signatures. The system supports multiple user and manager logins designed for entry and approval services respectively.
 
 Before proceeding ahead with this workspace setup, please ensure that you have downloaded and installed the required software stack.
